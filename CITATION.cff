@@ -1,18 +1,20 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: de Lacerda Tetzner
+    given-names: Bruno 
+  - family-names: Daniel Soriano Freire
+    given-names: Geraldo 
+  - family-names: Medeiros de Paula Pereira Demori
+    given-names: Jack
+  - family-names: Eduarda Sousa
+    given-names: Maria
+  - family-names: Lacerda Borges
+    given-names: Samuel 
+  - family-names: Alexandre Ferreira Santos
+    given-names: Victor
+  - family-names: Alberto Gonçalves Cavaco
+    given-names: Vitor
     
   - name-suffix: Professor
     affiliation: PUC Minas
@@ -29,16 +31,16 @@ authors:
   
 cff-version: "1.1.0"
 keywords: 
-  - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "e-Library"
+  - "Livros"
+  - "Biblioteca"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t2-e-library.git"
+title: "e-Library"
 abstract: |
     "
-    Breve descrição do projeto
+    Projeto para automatizar processos manuais de uma biblioteca
     "
 ...
